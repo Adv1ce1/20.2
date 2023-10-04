@@ -99,7 +99,7 @@
   },
   {
     "model": "catalog.product",
-    "pk": 9,
+    "pk": 8,
     "fields": {
       "name": "javascrypt",
       "description": "çäåñü áóäåò íàõîäèòñÿ îïèñàíèå ïî ïîìîùè ñ js êîäîì",
